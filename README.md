@@ -1,7 +1,7 @@
 # AirbnbDHomes_ProjectforAmericanas
 Airbnb-like system for renting apartments for Lojas Americanas' POO1 module.
-*Em Português*
 
+*Em Português*
 Trata-se de um projeto de locação de apartamentos semelhante ao Airbnb. 
 A reserva pode ser feita por hóspedes e empresas, os dados são guardados em duas listagens de cadastros próprios para usos do Marketing. 
 Ao final do preenchimento dos dados da reserva como apartamento, datas de check-in e check-out, o sistema calcula o preço com base no número de diárias, na estação (meses de baixa ou alta temporada) e descontos sobre estadias de longa duração e empresa, se aplicável. 
